@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-// import './NewCallection.css'
 import Items from "../Items/Items"
 import newCallection from "../../assets/new_collections"
 
